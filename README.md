@@ -1,1 +1,1 @@
-# Diabetes-Patients-Predictive-Model-
+# Sales Prediction Regression Model 
